@@ -76,10 +76,10 @@ It's important to note that every word given in a prompt can potentially affect 
 
 ```
 1. Write a paragraph about {topic} in {language} using {number_of_words} words. Make sure to include {specific_detail}.
-
-
+```
+```
 2. Generate a list of {number_of_items} ideas for {purpose}. Each idea should be described in {number_of_sentences} sentences.
-
-
+```
+```
 ​3. Answer the following question: {question}. Provide a detailed explanation in {number_of_paragraphs} paragraphs.
 ```
