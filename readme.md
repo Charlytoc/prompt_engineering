@@ -19,12 +19,12 @@ h2,h3,h4,h5,h6 {
 
 # Professional prompting guide
 
-
-When developing a prompt for a language model, it's important to be as clear and specific as possible. Here are some steps you can follow:
-
+Today, a prompt can be used as a tool to execute a task. A prompt let us use all the power of the realm of the AI to out benefit.
+Writing a good prompt its a key ability for this new generation of development.
+In this guide, you will learn how to make useful and extendable prompts.
 
 ## Prompt principles
-A prompt can be as simple as a single letter, it can also generate a response from the LLM. This principles are widely recommended when developing a good prompt.
+A prompt can be as simple as a single letter, it can also generate a response from the LLM. The following principles are widely recommended when developing a good prompt.
 
 ​1. **Define the Task Clearly**: Start by clearly defining what you want the model to do. This could be anything from writing a paragraph on a specific topic, generating a list of ideas, or answering a question.
 
