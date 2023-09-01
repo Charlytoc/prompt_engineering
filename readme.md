@@ -17,7 +17,7 @@ h2,h3,h4,h5,h6 {
 </style>
 
 
-# Principles, variables, and examples of professional prompts
+# Professional prompting guide
 
 
 When developing a prompt for a language model, it's important to be as clear and specific as possible. Here are some steps you can follow:
